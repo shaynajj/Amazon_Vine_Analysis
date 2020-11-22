@@ -5,7 +5,7 @@ The purpose of this analysis is to examine customer reviews for a specific produ
 
 ### Results
 - Out of the reviews that were determined to be useful, there were 1,207 Vine reviews and 97,839 non-Vine reviews.
-- Out of 99,046 total useful reviews, there were 509 5-star Vine reviews, and 45,858 5-star non-Vine reviews.
+- Out of 99,046 total useful reviews, there were 509 5-star Vine reviews and 45,858 5-star non-Vine reviews; 0.51% and 46.3% respecitvely.
 - 42.2% of Vine reviews were 5-stars and 46.9% of non-Vine reviews were 5-stars.
 
 ### Summary
